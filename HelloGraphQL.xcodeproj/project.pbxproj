@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8DA62DB8264C0F0800BD5AA9 /* CountryDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DA62DB7264C0F0800BD5AA9 /* CountryDetailView.swift */; };
 		8DF4C9D92649A2A3006A78DF /* HelloGraphQLApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF4C9D82649A2A3006A78DF /* HelloGraphQLApp.swift */; };
 		8DF4C9DB2649A2A3006A78DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF4C9DA2649A2A3006A78DF /* ContentView.swift */; };
 		8DF4C9DD2649A2A4006A78DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DF4C9DC2649A2A4006A78DF /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8DA62DB7264C0F0800BD5AA9 /* CountryDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryDetailView.swift; sourceTree = "<group>"; };
 		8DF4C9D52649A2A3006A78DF /* HelloGraphQL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloGraphQL.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DF4C9D82649A2A3006A78DF /* HelloGraphQLApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloGraphQLApp.swift; sourceTree = "<group>"; };
 		8DF4C9DA2649A2A3006A78DF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				8DF4C9DC2649A2A4006A78DF /* Assets.xcassets */,
 				8DF4C9E12649A2A4006A78DF /* Info.plist */,
 				8DF4C9DE2649A2A4006A78DF /* Preview Content */,
+				8DA62DB7264C0F0800BD5AA9 /* CountryDetailView.swift */,
 			);
 			path = HelloGraphQL;
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 				8DF4C9FE2649A64C006A78DF /* API.swift in Sources */,
 				8DF4CA022649A69F006A78DF /* Apollo.swift in Sources */,
 				8DF4C9D92649A2A3006A78DF /* HelloGraphQLApp.swift in Sources */,
+				8DA62DB8264C0F0800BD5AA9 /* CountryDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
